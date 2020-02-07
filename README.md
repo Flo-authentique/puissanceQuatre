@@ -1,2 +1,2 @@
 # puissanceQuatre
-C'est un Puissance Quatre en Java.
+C'est un Puissance 4 en Java.
